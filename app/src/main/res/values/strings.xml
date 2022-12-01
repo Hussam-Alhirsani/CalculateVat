@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculate Vat</string>
+    <string name="coast_or_total_price">Coast or Total Price</string>
+    <string name="select_or_total_price">Select or Total Price</string>
+    <string name="select_vat_price">Select Vat Price</string>
+    <string name="_10">10%</string>
+    <string name="calculate_vat">CALCULATE VAT</string>
+    <string name="round_up_total">Round Up Total ???</string>
+    <string name="_20">20%</string>
+    <string name="_15">15</string>
+    <string name="__10">10%</string>
+</resources>
